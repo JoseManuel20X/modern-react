@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/modern-react.git/static/css/main.591a990d.css",
-    "main.js": "/modern-react.git/static/js/main.39969801.js",
-    "static/js/488.bee56c80.chunk.js": "/modern-react.git/static/js/488.bee56c80.chunk.js",
-    "index.html": "/modern-react.git/index.html",
-    "main.591a990d.css.map": "/modern-react.git/static/css/main.591a990d.css.map",
-    "main.39969801.js.map": "/modern-react.git/static/js/main.39969801.js.map",
-    "488.bee56c80.chunk.js.map": "/modern-react.git/static/js/488.bee56c80.chunk.js.map"
+    "main.css": "/modern-react/static/css/main.591a990d.css",
+    "main.js": "/modern-react/static/js/main.206bf25e.js",
+    "static/js/488.bee56c80.chunk.js": "/modern-react/static/js/488.bee56c80.chunk.js",
+    "index.html": "/modern-react/index.html",
+    "main.591a990d.css.map": "/modern-react/static/css/main.591a990d.css.map",
+    "main.206bf25e.js.map": "/modern-react/static/js/main.206bf25e.js.map",
+    "488.bee56c80.chunk.js.map": "/modern-react/static/js/488.bee56c80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.591a990d.css",
-    "static/js/main.39969801.js"
+    "static/js/main.206bf25e.js"
   ]
 }
